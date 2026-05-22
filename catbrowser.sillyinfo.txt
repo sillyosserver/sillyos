@@ -1,0 +1,3 @@
+Welcome to cat browser hompage 1.0
+This gives you all the info about your browser MEOW
+Type 1 to check your browser version
