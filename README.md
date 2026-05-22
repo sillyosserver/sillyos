@@ -1,0 +1,2 @@
+# sillyos
+Websites for sillyosbrowser
